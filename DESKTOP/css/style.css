@@ -39,7 +39,7 @@ input[type=text], input[type=tel], textarea {
 }
 
 body{
-    background-image: url(../images/background.jpg);
+    /*background-image: url(../images/background.jpg);*/
     color: black;
 }
 
