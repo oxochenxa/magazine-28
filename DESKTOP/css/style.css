@@ -170,3 +170,7 @@ img{
 .youtube{
     margin-bottom: 20px;
 }
+
+.img-fullsize{
+    width: 100%;
+}
